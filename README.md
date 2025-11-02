@@ -1,8 +1,8 @@
-🌦️ Weather Dataset – Exploratory Data Analysis (EDA)
+🌦️** Weather Dataset – Exploratory Data Analysis (EDA)**
 
 This repository contains a complete Exploratory Data Analysis (EDA) of a Weather dataset. The project aims to uncover meaningful patterns from atmospheric variables such as Ozone, Solar Radiation, Wind Speed, Day, and Temperature through statistical exploration and data visualization.
 
-📂 Project Overview
+📂 **Project Overview**
 
 The goal of this project is to:
 
@@ -17,7 +17,7 @@ Visualize trends affecting weather and air-quality indicators
 Derive insights related to ozone formation and weather patterns
 
 
-📊 Key Insights
+📊 **Key Insights**
 
 Temperature & Solar Radiation positively influence Ozone levels, meaning ozone tends to increase on warm, sunny days.
 
@@ -28,7 +28,7 @@ Weak or no correlation between Day index and other variables, showing temporal i
 Sunny, hot, low-wind days typically show higher ozone concentration.
 
 
-📈 Visualizations Included
+📈 **Visualizations Included**
 
 Distribution plots
 
@@ -41,12 +41,12 @@ Trend line charts
 Pairplots
 
 
-📥 Dataset Source
+📥 **Dataset Source**
 
 Public weather data sourced for educational and research purposes.
 
 
-🚀 Future Enhancements
+🚀 **Future Enhancements**
 
 Add machine learning model for ozone prediction
 
@@ -55,7 +55,7 @@ Include seasonal analysis and decomposition
 Deploy interactive dashboard (Streamlit / Power BI)
 
 
-👤 Author
+👤 **Author**
 
 George Saju
 Data Science & Analytics Enthusiast
