@@ -1,4 +1,4 @@
-🌦️** Weather Dataset – Exploratory Data Analysis (EDA)**
+🌦️ **Weather Dataset – Exploratory Data Analysis (EDA)**
 
 This repository contains a complete Exploratory Data Analysis (EDA) of a Weather dataset. The project aims to uncover meaningful patterns from atmospheric variables such as Ozone, Solar Radiation, Wind Speed, Day, and Temperature through statistical exploration and data visualization.
 
